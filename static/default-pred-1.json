@@ -1,0 +1,15 @@
+{"event_wday": "Saturday",
+  "user_id": "user_pseudo_id",
+  "session_id": "324523422",
+  "session_duration": 300,
+  "is_new_visitor": 1,
+  "account_sign_in": 1,
+  "saw_search_results_n": 1,
+  "product_list_pageview_n": 1,
+  "product_pageviews_n": 1,
+  "add_to_cart_n": 1,
+  "reached_cart_n": 1,
+  "start_checkout_n": 1,
+  "shipping_stage_completed_n": 1,
+  "payment_stage_completed": 1
+}
