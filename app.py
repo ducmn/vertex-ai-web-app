@@ -1,6 +1,6 @@
 import os
 from flask import json as fjson
-from flask import Flask, render_template, request, redirect, url_for, json
+from flask import Flask, render_template, request, json
 from typing import Dict, List, Union
 
 from google.cloud import aiplatform
